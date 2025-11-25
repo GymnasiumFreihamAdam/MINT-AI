@@ -12,5 +12,3 @@ with
 `activation=True`
 
 ©Adam Basly. Alle Rechte vorbehalten.
-
-![image](./myskininminecraft.png)
